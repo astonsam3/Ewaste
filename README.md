@@ -5,7 +5,7 @@ The project aims to eradicate or to get rid of solid waste, especially Electroni
 
 ![astronaut-gargantua-5200x3250-9613](https://github.com/astonsam3/Ewaste/assets/129243726/d71952a3-bb43-4b7b-a535-d2d522bb77e3)
 
-#Table
+# Table
 
 | 1 | 8 | 9 | 16 |
 | --- | --- | --- | --- |
