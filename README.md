@@ -1,2 +1,2 @@
 # Ewaste
-E-waste management using object detection and robotic arm segregation.
+E-waste management using object detection and, robotic arm segregation.
