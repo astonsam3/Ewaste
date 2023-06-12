@@ -1,3 +1,5 @@
 # Ewaste
-E-waste management using object detection and, robotic arm segregation.
-oi7reo87gqgfp9 hgr9tp7h pav9pa erp9q7ger piq7pgq rpga -9[grv
+
+Abstact
+##  The project aims to eradicate or to get rid of solid waste, especially Electronic waste (E-waste), replacing the conventional method of segregation and eradicating all the ill-effects which India currently uses for E-WASTE management. New automated ways using AI&ML with minimum human involvement are the major USP of the project.
+
