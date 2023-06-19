@@ -12,6 +12,7 @@ The objective of this project is to design and implement a E-Waste Management (S
 
 
 ![Sensor (1)](https://github.com/astonsam3/Ewaste/assets/129243726/f6c76fb8-a4c5-4be9-a059-fdb78dbc4522)
+
                                                   Fig 2
 
 
