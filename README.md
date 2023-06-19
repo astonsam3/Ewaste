@@ -7,6 +7,7 @@ The project aims to eradicate or get rid of solid waste, especially Electronic w
 The objective of this project is to design and implement a E-Waste Management (SWM) system for cities that leverages various AI models, both single and hybrid, to optimize the generation, detection, collection, classification, and properties of E-Waste . The project aims to achieve the following goals. Prediction and optimization: Utilize AI techniques to accurately predict and optimize the generation, composition, and quantity of E-waste in cities.  Automated detection and classification by utilizing computer vision and machine learning algorithms, the objective is to accurately identify and classify various E-waste items. This will enable efficient sorting and recycling processes, reducing the reliance on manual sorting and enhancing recycling rates. Build a decision support system that integrates the outputs of various AI models and provides actionable insights.
 
 
+![Sensor (1)](https://github.com/astonsam3/Ewaste/assets/129243726/f6c76fb8-a4c5-4be9-a059-fdb78dbc4522)
 
 
 
